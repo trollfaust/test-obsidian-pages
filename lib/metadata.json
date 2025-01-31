@@ -1,6 +1,6 @@
 {
   "vaultName": "Pen-and-Paper-Welt",
-  "lastExport": 1738331380538,
+  "lastExport": 1738332385931,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -79,6 +79,7 @@
     "01 - Locations/Trollfaust/Zum wandernden Huhn/Ritualstelle-Altes Camp.md",
     "01 - Locations/Trollfaust/Zum wandernden Huhn/Zum wandernden Huhn.md",
     "01 - Locations/Trea.md",
+    "99 - Meta/Utility Notes/Charaktereigenschaften.md",
     "lib/media/gandaruda-20241217152255146.webp",
     "lib/media/setura-20240716005633399.webp",
     "lib/media/das-geborgene-land-20241217152932734.webp",
@@ -118,6 +119,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -173,6 +175,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -437,7 +440,7 @@
       ]
     },
     "lib/media/placeholder.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 9362,
       "exportedPath": "lib/media/placeholder.webp",
       "dependencies": []
@@ -455,7 +458,7 @@
       "dependencies": []
     },
     "lib/media/region-um-hermithan-20240723133908247.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 2590896,
       "exportedPath": "lib/media/region-um-hermithan-20240723133908247.webp",
       "dependencies": []
@@ -581,193 +584,205 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738331380538,
-      "sourceSize": 42567,
+      "modifiedTime": 1738332385931,
+      "sourceSize": 44240,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1738331380538,
-      "sourceSize": 7306,
+      "modifiedTime": 1738332385931,
+      "sourceSize": 7385,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 137229,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 9720,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 465,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 11180,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 84993,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
+    "99 - Meta/Utility Notes/Charaktereigenschaften.md": {
+      "modifiedTime": 1738332356587,
+      "sourceSize": 17728,
+      "exportedPath": "99-meta/utility-notes/charaktereigenschaften.html",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1738332385931,
+      "sourceSize": 2461,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
     "01 - Locations/Kontinente/Gandaruda.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4067,
       "exportedPath": "01-locations/kontinente/gandaruda.html",
       "dependencies": [
@@ -776,7 +791,7 @@
       ]
     },
     "01 - Locations/Kontinente/Setura.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4011,
       "exportedPath": "01-locations/kontinente/setura.html",
       "dependencies": [
@@ -785,7 +800,7 @@
       ]
     },
     "01 - Locations/Landstriche/Das Geborgene Land.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4082,
       "exportedPath": "01-locations/landstriche/das-geborgene-land.html",
       "dependencies": [
@@ -794,7 +809,7 @@
       ]
     },
     "01 - Locations/Landstriche/Nördliches Gandaruda.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4128,
       "exportedPath": "01-locations/landstriche/nördliches-gandaruda.html",
       "dependencies": [
@@ -803,7 +818,7 @@
       ]
     },
     "01 - Locations/Landstriche/Region um Hermithan.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4170,
       "exportedPath": "01-locations/landstriche/region-um-hermithan.html",
       "dependencies": [
@@ -812,7 +827,7 @@
       ]
     },
     "01 - Locations/Landstriche/Wüste der tausend Lichter.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4189,
       "exportedPath": "01-locations/landstriche/wüste-der-tausend-lichter.html",
       "dependencies": [
@@ -821,7 +836,7 @@
       ]
     },
     "01 - Locations/Matze/Dunkelheit über Kohlrend/Köhlerei.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4623,
       "exportedPath": "01-locations/matze/dunkelheit-über-kohlrend/köhlerei.html",
       "dependencies": [
@@ -830,7 +845,7 @@
       ]
     },
     "01 - Locations/Matze/Dunkelheit über Kohlrend/Kohlrend.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4719,
       "exportedPath": "01-locations/matze/dunkelheit-über-kohlrend/kohlrend.html",
       "dependencies": [
@@ -839,7 +854,7 @@
       ]
     },
     "01 - Locations/Matze/Dunkelheit über Kohlrend/Östliches Holzfällerlager.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4570,
       "exportedPath": "01-locations/matze/dunkelheit-über-kohlrend/östliches-holzfällerlager.html",
       "dependencies": [
@@ -848,7 +863,7 @@
       ]
     },
     "01 - Locations/Matze/Dunkelheit über Kohlrend/Seeron.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4726,
       "exportedPath": "01-locations/matze/dunkelheit-über-kohlrend/seeron.html",
       "dependencies": [
@@ -857,7 +872,7 @@
       ]
     },
     "01 - Locations/Matze/Dunkelheit über Kohlrend/Silvanus Tempel.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4565,
       "exportedPath": "01-locations/matze/dunkelheit-über-kohlrend/silvanus-tempel.html",
       "dependencies": [
@@ -866,7 +881,7 @@
       ]
     },
     "01 - Locations/Matze/Dunkelheit über Kohlrend/Zwei Zwergen Fäuste.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4574,
       "exportedPath": "01-locations/matze/dunkelheit-über-kohlrend/zwei-zwergen-fäuste.html",
       "dependencies": [
@@ -875,7 +890,7 @@
       ]
     },
     "01 - Locations/Ortschaften/Amagara.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 5040,
       "exportedPath": "01-locations/ortschaften/amagara.html",
       "dependencies": [
@@ -884,7 +899,7 @@
       ]
     },
     "01 - Locations/Ortschaften/Sroja.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4719,
       "exportedPath": "01-locations/ortschaften/sroja.html",
       "dependencies": [
@@ -893,7 +908,7 @@
       ]
     },
     "01 - Locations/Ortschaften/Urokoma.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 5162,
       "exportedPath": "01-locations/ortschaften/urokoma.html",
       "dependencies": [
@@ -902,7 +917,7 @@
       ]
     },
     "01 - Locations/Reiche/Grosskönigreich Hauragan.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4442,
       "exportedPath": "01-locations/reiche/grosskönigreich-hauragan.html",
       "dependencies": [
@@ -911,7 +926,7 @@
       ]
     },
     "01 - Locations/Reiche/Himmelsreich Sangrein.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4412,
       "exportedPath": "01-locations/reiche/himmelsreich-sangrein.html",
       "dependencies": [
@@ -920,7 +935,7 @@
       ]
     },
     "01 - Locations/Reiche/Kleithion.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4431,
       "exportedPath": "01-locations/reiche/kleithion.html",
       "dependencies": [
@@ -929,7 +944,7 @@
       ]
     },
     "01 - Locations/Reiche/Königreich Afesia.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4442,
       "exportedPath": "01-locations/reiche/königreich-afesia.html",
       "dependencies": [
@@ -938,7 +953,7 @@
       ]
     },
     "01 - Locations/Reiche/Königreich Pippelwyn.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4442,
       "exportedPath": "01-locations/reiche/königreich-pippelwyn.html",
       "dependencies": [
@@ -947,7 +962,7 @@
       ]
     },
     "01 - Locations/Reiche/Königreich Urgon.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4442,
       "exportedPath": "01-locations/reiche/königreich-urgon.html",
       "dependencies": [
@@ -956,7 +971,7 @@
       ]
     },
     "01 - Locations/Reiche/Königreich von Safrena.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4430,
       "exportedPath": "01-locations/reiche/königreich-von-safrena.html",
       "dependencies": [
@@ -965,7 +980,7 @@
       ]
     },
     "01 - Locations/Reiche/Königreich Wexxir.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4442,
       "exportedPath": "01-locations/reiche/königreich-wexxir.html",
       "dependencies": [
@@ -974,7 +989,7 @@
       ]
     },
     "01 - Locations/Reiche/Königreich Weyrun.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4442,
       "exportedPath": "01-locations/reiche/königreich-weyrun.html",
       "dependencies": [
@@ -983,7 +998,7 @@
       ]
     },
     "01 - Locations/Reiche/Llyrion.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4430,
       "exportedPath": "01-locations/reiche/llyrion.html",
       "dependencies": [
@@ -992,7 +1007,7 @@
       ]
     },
     "01 - Locations/Reiche/Rolandisches Kaiserreich.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4482,
       "exportedPath": "01-locations/reiche/rolandisches-kaiserreich.html",
       "dependencies": [
@@ -1001,7 +1016,7 @@
       ]
     },
     "01 - Locations/Reiche/Vergerel.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4429,
       "exportedPath": "01-locations/reiche/vergerel.html",
       "dependencies": [
@@ -1010,7 +1025,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Alter Bergbauposten.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 6867,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/alter-bergbauposten.html",
       "dependencies": [
@@ -1019,7 +1034,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Eiserne Schmiede.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 5944,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/eiserne-schmiede.html",
       "dependencies": [
@@ -1028,7 +1043,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Farandras Schrein.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 8196,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/farandras-schrein.html",
       "dependencies": [
@@ -1037,7 +1052,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Handelsposten zum Pferdekopf.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 6361,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/handelsposten-zum-pferdekopf.html",
       "dependencies": [
@@ -1046,7 +1061,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Hermithan.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 5833,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/hermithan.html",
       "dependencies": [
@@ -1055,7 +1070,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Hidden Stache.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 7574,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/hidden-stache.html",
       "dependencies": [
@@ -1064,7 +1079,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Mineneingang.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 7466,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/mineneingang.html",
       "dependencies": [
@@ -1073,7 +1088,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/01 - Hermilthan/Rathaus von Hermithan.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4277,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/01-hermilthan/rathaus-von-hermithan.html",
       "dependencies": [
@@ -1082,7 +1097,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/02 - Deepfrost Citadel/Deepfrost Citadel.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 5355,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/02-deepfrost-citadel/deepfrost-citadel.html",
       "dependencies": [
@@ -1091,7 +1106,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/03 - Frozen Crypt/Frozen Crypt.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 7215,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/03-frozen-crypt/frozen-crypt.html",
       "dependencies": [
@@ -1100,7 +1115,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/04 - Caves of Carnage/Caves of Carnage.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 3620,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/04-caves-of-carnage/caves-of-carnage.html",
       "dependencies": [
@@ -1109,7 +1124,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/05 - Black Mines/Black Mines.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 3525,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/05-black-mines/black-mines.html",
       "dependencies": [
@@ -1118,7 +1133,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Hermilthan und Umgebung/06 - Burning Dark/Burning Dark.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 3435,
       "exportedPath": "01-locations/trollfaust/hermilthan-und-umgebung/06-burning-dark/burning-dark.html",
       "dependencies": [
@@ -1127,7 +1142,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Zum wandernden Huhn/Gremlin Höhle.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4106,
       "exportedPath": "01-locations/trollfaust/zum-wandernden-huhn/gremlin-höhle.html",
       "dependencies": [
@@ -1136,7 +1151,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Zum wandernden Huhn/Kristall See.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 3797,
       "exportedPath": "01-locations/trollfaust/zum-wandernden-huhn/kristall-see.html",
       "dependencies": [
@@ -1145,7 +1160,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Zum wandernden Huhn/Ritualstelle-Altes Camp.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4040,
       "exportedPath": "01-locations/trollfaust/zum-wandernden-huhn/ritualstelle-altes-camp.html",
       "dependencies": [
@@ -1154,7 +1169,7 @@
       ]
     },
     "01 - Locations/Trollfaust/Zum wandernden Huhn/Zum wandernden Huhn.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4217,
       "exportedPath": "01-locations/trollfaust/zum-wandernden-huhn/zum-wandernden-huhn.html",
       "dependencies": [
@@ -1163,7 +1178,7 @@
       ]
     },
     "01 - Locations/Trea.md": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 4010,
       "exportedPath": "01-locations/trea.html",
       "dependencies": [
@@ -1172,67 +1187,67 @@
       ]
     },
     "lib/media/gandaruda-20241217152255146.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 81516,
       "exportedPath": "lib/media/gandaruda-20241217152255146.webp",
       "dependencies": []
     },
     "lib/media/setura-20240716005633399.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 293280,
       "exportedPath": "lib/media/setura-20240716005633399.webp",
       "dependencies": []
     },
     "lib/media/das-geborgene-land-20241217152932734.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 1337986,
       "exportedPath": "lib/media/das-geborgene-land-20241217152932734.webp",
       "dependencies": []
     },
     "lib/media/nördliches-gandaruda-20241217152717344.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 400632,
       "exportedPath": "lib/media/nördliches-gandaruda-20241217152717344.webp",
       "dependencies": []
     },
     "lib/media/rolandia-20241217152437410.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 816186,
       "exportedPath": "lib/media/rolandia-20241217152437410.webp",
       "dependencies": []
     },
     "lib/media/hermithan-20241017162021139.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 333020,
       "exportedPath": "lib/media/hermithan-20241017162021139.webp",
       "dependencies": []
     },
     "lib/media/gremlin-höhle-20240707230729819.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 298842,
       "exportedPath": "lib/media/gremlin-höhle-20240707230729819.webp",
       "dependencies": []
     },
     "lib/media/kristall-see-20240707230548896.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 378322,
       "exportedPath": "lib/media/kristall-see-20240707230548896.webp",
       "dependencies": []
     },
     "lib/media/ritualstelle-20240707230434650.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 276424,
       "exportedPath": "lib/media/ritualstelle-20240707230434650.webp",
       "dependencies": []
     },
     "lib/media/zum-wandernden-huhn-20240707225939755.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 188980,
       "exportedPath": "lib/media/zum-wandernden-huhn-20240707225939755.webp",
       "dependencies": []
     },
     "lib/media/trea-20240716005219858.webp": {
-      "modifiedTime": 1738331380538,
+      "modifiedTime": 1738332385931,
       "sourceSize": 829320,
       "exportedPath": "lib/media/trea-20240716005219858.webp",
       "dependencies": []
