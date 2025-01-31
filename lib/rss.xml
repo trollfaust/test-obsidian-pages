@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pen-and-Paper-Welt]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Pen-and-Paper-Welt</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 31 Jan 2025 12:47:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 31 Jan 2025 12:47:05 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Glossar]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Zum wandernden Huhn" href="\01-locations\trollfaust\zum-wandernden-huhn\zum-wandernden-huhn.html" class="internal-link" target="_self" rel="noopener nofollow">Zum wandernden Huhn</a>
+<br><a data-href="Hermithan" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\hermithan.html" class="internal-link" target="_self" rel="noopener nofollow">Hermithan</a>
+
+<br><a data-href="Alter Bergbauposten" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\alter-bergbauposten.html" class="internal-link" target="_self" rel="noopener nofollow">Alter Bergbauposten</a>
+<br><a data-href="Rathaus von Hermithan" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\rathaus-von-hermithan.html" class="internal-link" target="_self" rel="noopener nofollow">Rathaus von Hermithan</a>
+<br><a data-href="Handelsposten zum Pferdekopf" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\handelsposten-zum-pferdekopf.html" class="internal-link" target="_self" rel="noopener nofollow">Handelsposten zum Pferdekopf</a>
+<br><a data-href="Eiserne Schmiede" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\eiserne-schmiede.html" class="internal-link" target="_self" rel="noopener nofollow">Eiserne Schmiede</a>
+<br><a data-href="Farandras Schrein" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\farandras-schrein.html" class="internal-link" target="_self" rel="noopener nofollow">Farandras Schrein</a>
+<br><a data-href="Hidden Stache" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\hidden-stache.html" class="internal-link" target="_self" rel="noopener nofollow">Hidden Stache</a>
+
+
+<br><a data-href="Deepfrost Citadel" href="\01-locations\trollfaust\hermilthan-und-umgebung\02-deepfrost-citadel\deepfrost-citadel.html" class="internal-link" target="_self" rel="noopener nofollow">Deepfrost Citadel</a>
+<br><a data-href="Frozen Crypt" href="\01-locations\trollfaust\hermilthan-und-umgebung\03-frozen-crypt\frozen-crypt.html" class="internal-link" target="_self" rel="noopener nofollow">Frozen Crypt</a>
+<br><a data-href="Caves of Carnage" href="\01-locations\trollfaust\hermilthan-und-umgebung\04-caves-of-carnage\caves-of-carnage.html" class="internal-link" target="_self" rel="noopener nofollow">Caves of Carnage</a>
+<br><a data-href="Black Mines" href="\01-locations\trollfaust\hermilthan-und-umgebung\05-black-mines\black-mines.html" class="internal-link" target="_self" rel="noopener nofollow">Black Mines</a>
+<br><a data-href="Burning Dark" href="\01-locations\trollfaust\hermilthan-und-umgebung\06-burning-dark\burning-dark.html" class="internal-link" target="_self" rel="noopener nofollow">Burning Dark</a>
+<br><br>
+<br><a data-href="Rekura Rabenwacht" href="\02-npcs\trollfaust\zum-wandernden-huhn\rekura-rabenwacht.html" class="internal-link" target="_self" rel="noopener nofollow">Rekura Rabenwacht</a>
+<br><a data-href="Silene Rabenwacht" href="\02-npcs\trollfaust\zum-wandernden-huhn\silene-rabenwacht.html" class="internal-link" target="_self" rel="noopener nofollow">Silene Rabenwacht</a>
+<br><a data-href="Morgaine" href="\02-npcs\trollfaust\zum-wandernden-huhn\morgaine.html" class="internal-link" target="_self" rel="noopener nofollow">Morgaine</a>
+<br><a data-href="Barthes Debnar" href="\02-npcs\trollfaust\hermilthan-und-umgebung\barthes-debnar.html" class="internal-link" target="_self" rel="noopener nofollow">Barthes Debnar</a>
+<br><a data-href="Calliope Zemnas" href="\02-npcs\trollfaust\hermilthan-und-umgebung\calliope-zemnas.html" class="internal-link" target="_self" rel="noopener nofollow">Calliope Zemnas</a>
+<br><a data-href="Carter Grummins" href="\02-npcs\trollfaust\hermilthan-und-umgebung\carter-grummins.html" class="internal-link" target="_self" rel="noopener nofollow">Carter Grummins</a>
+<br><a data-href="Colt Farandras" href="\02-npcs\trollfaust\hermilthan-und-umgebung\colt-farandras.html" class="internal-link" target="_self" rel="noopener nofollow">Colt Farandras</a>
+<br><a data-href="Dorias Miro" href="\02-npcs\trollfaust\hermilthan-und-umgebung\dorias-miro.html" class="internal-link" target="_self" rel="noopener nofollow">Dorias Miro</a>
+<br><a data-href="Exander Veldt" href="\02-npcs\trollfaust\hermilthan-und-umgebung\exander-veldt.html" class="internal-link" target="_self" rel="noopener nofollow">Exander Veldt</a>
+<br><a data-href="Garrett Wells" href="\02-npcs\trollfaust\hermilthan-und-umgebung\garrett-wells.html" class="internal-link" target="_self" rel="noopener nofollow">Garrett Wells</a>
+<br><a data-href="Gerawyn Thay" href="\02-npcs\trollfaust\hermilthan-und-umgebung\gerawyn-thay.html" class="internal-link" target="_self" rel="noopener nofollow">Gerawyn Thay</a>
+<br><a data-href="Hal Terris" href="\02-npcs\trollfaust\hermilthan-und-umgebung\hal-terris.html" class="internal-link" target="_self" rel="noopener nofollow">Hal Terris</a>
+<br><a data-href="Jonas von den Hügeln" href="\02-npcs\trollfaust\hermilthan-und-umgebung\jonas-von-den-hügeln.html" class="internal-link" target="_self" rel="noopener nofollow">Jonas von den Hügeln</a>
+<br><a data-href="Marlon Joybringer" href="\02-npcs\trollfaust\hermilthan-und-umgebung\marlon-joybringer.html" class="internal-link" target="_self" rel="noopener nofollow">Marlon Joybringer</a>
+<br><a data-href="Salaena Mirrial" href="\02-npcs\trollfaust\hermilthan-und-umgebung\salaena-mirrial.html" class="internal-link" target="_self" rel="noopener nofollow">Salaena Mirrial</a>
+<br><a data-href="Simeon Veinbreaker" href="\02-npcs\trollfaust\hermilthan-und-umgebung\simeon-veinbreaker.html" class="internal-link" target="_self" rel="noopener nofollow">Simeon Veinbreaker</a>
+<br><a data-href="Thaddeus Holsten" href="\02-npcs\trollfaust\hermilthan-und-umgebung\thaddeus-holsten.html" class="internal-link" target="_self" rel="noopener nofollow">Thaddeus Holsten</a>
+<br><a data-href="Varin Bell" href="\02-npcs\trollfaust\hermilthan-und-umgebung\varin-bell.html" class="internal-link" target="_self" rel="noopener nofollow">Varin Bell</a>
+<br><a data-href="Xanthos Barian" href="\02-npcs\trollfaust\hermilthan-und-umgebung\xanthos-barian.html" class="internal-link" target="_self" rel="noopener nofollow">Xanthos Barian</a>
+<br><br>
+<br><a data-href="Sculk" href="\05-mechaniken\trollfaust\01-deepfrost-citadel\sculk.html" class="internal-link" target="_self" rel="noopener nofollow">Sculk</a>
+<br>
+]]></description><link>00-home\trollfaust\glossar.html</link><guid isPermaLink="false">00 - Home/Trollfaust/Glossar.md</guid><pubDate>Sat, 16 Nov 2024 18:32:58 GMT</pubDate></item><item><title><![CDATA[Homepage]]></title><description><![CDATA[ 
+ <br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags| ​ |<br>
+Aliases|DM Screen   |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\placeholder.webp" alt="99 - Meta/Resources/Utility/placeholder.webp"> 99 - Meta/Resources/Utility/placeholder.webp  |
+
+Quick References
+
+
+
+D&amp;D Shortcuts
+
+
+
+<br>Gruppen
+Gruppe
+
+
+<br><br><br>Column
+Charaktere
+
+
+Locations
+
+
+Storys
+
+
+Misc
+
+
+<br>D&amp;D Name Generator
+
+<br>Donjon Tools
+
+<br>Random Charaktereigenschaften
+dice: [[Charaktereigenschaften^eigenschaften]] | dice: [[Charaktereigenschaften^eigenschaften]] | dice: [[Charaktereigenschaften^eigenschaften]] | dice: [[Charaktereigenschaften^eigenschaften]] | dice: [[Charaktereigenschaften^eigenschaften]]
+<br>D&amp;D Shortcuts
+Cards
+ <a target="_self" rel="noopener" data-href="conditions" href="\99-meta\cli\rules\conditions.html" class="internal-link">conditions</a>
+ <a target="_self" rel="noopener" data-href="diseases" href="\99-meta\cli\rules\diseases.html" class="internal-link">diseases</a>
+ <a target="_self" rel="noopener" data-href="actions" href="\99-meta\cli\rules\actions.html" class="internal-link">actions</a>
+ <a target="_self" rel="noopener" data-href="senses" href="\99-meta\cli\rules\senses.html" class="internal-link">senses</a>
+ <a target="_self" rel="noopener" data-href="feats" href="\99-meta\cli\feats\feats.html" class="internal-link">feats</a>
+
+]]></description><link>00-home\trollfaust\homepage.html</link><guid isPermaLink="false">00 - Home/Trollfaust/Homepage.md</guid><pubDate>Fri, 13 Sep 2024 22:05:14 GMT</pubDate><enclosure url="lib\media\placeholder.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\placeholder.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TODO]]></title><description><![CDATA[ 
+ <br><br>
+<br>Lagerfeuer Token Dings
+<br>Token Bild für den Wanderer
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>Maps überarbeiten
+<br>Thaddeus Tagebuch Teil 1 überarbeiten
+<br>
+]]></description><link>00-home\trollfaust\todo.html</link><guid isPermaLink="false">00 - Home/Trollfaust/TODO.md</guid><pubDate>Fri, 31 Jan 2025 00:19:21 GMT</pubDate></item><item><title><![CDATA[Timeline von Trea]]></title><description><![CDATA[ 
+ <br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Timeline ​ |<br>
+Aliases|Empty   |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\placeholder.webp" alt="99 - Meta/Resources/Utility/placeholder.webp"> 99 - Meta/Resources/Utility/placeholder.webp  |
+
+Info
+
+| | |<br>
+---|---|<br>
+Ort Bezug|<a target="_self" rel="noopener" data-href="Trea" href="\01-locations\trea.html" class="internal-link">Trea</a> ​ |<br>
+Übergeordnete Story| ​ |<br>
+ACHTUNG: Timeline ID muss manuell angepasst werden
+
+<br>]]></description><link>00-home\timeline-von-trea.html</link><guid isPermaLink="false">00 - Home/Timeline von Trea.md</guid><pubDate>Tue, 16 Jul 2024 14:36:41 GMT</pubDate><enclosure url="lib\media\placeholder.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\placeholder.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TODO Allgemein]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+]]></description><link>00-home\todo-allgemein.html</link><guid isPermaLink="false">00 - Home/TODO Allgemein.md</guid><pubDate>Wed, 17 Jul 2024 13:16:24 GMT</pubDate></item><item><title><![CDATA[Boggles]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\boggles-20240902172340181.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Empty   |<br>
+Link Statblock| |<br>
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\boggles-20240902172340181.webp" alt="99 - Meta/Resources/Character/Boggles-20240902172340181.webp"> 99 - Meta/Resources/Character/Boggles-20240902172340181.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Fairy  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen|  ​  |<br>
+Beruf|  ​ |<br>
+Class|Artificer ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Kohlrend" href="\01-locations\matze\dunkelheit-über-kohlrend\kohlrend.html" class="internal-link">Kohlrend</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Schatten über Kohlrend Matze" href="\00-player\matze\gruppe-2\schatten-über-kohlrend-matze.html" class="internal-link">Schatten über Kohlrend Matze</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-2\boggles.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 2/Boggles.md</guid><pubDate>Tue, 17 Dec 2024 18:27:20 GMT</pubDate><enclosure url="lib\media\boggles-20240902172340181.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\boggles-20240902172340181.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nathonel III]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\nathonel-iii-20240902172633691.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Nathonel   |<br>
+Link Statblock| |<br>
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\nathonel-iii-20240902172633691.webp" alt="99 - Meta/Resources/Character/Nathonel III-20240902172633691.webp"> 99 - Meta/Resources/Character/Nathonel III-20240902172633691.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Aasimar  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen|  ​  |<br>
+Beruf|  ​ |<br>
+Class|Paladin ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Kohlrend" href="\01-locations\matze\dunkelheit-über-kohlrend\kohlrend.html" class="internal-link">Kohlrend</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Schatten über Kohlrend Matze" href="\00-player\matze\gruppe-2\schatten-über-kohlrend-matze.html" class="internal-link">Schatten über Kohlrend Matze</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-2\nathonel-iii.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 2/Nathonel III.md</guid><pubDate>Tue, 17 Dec 2024 18:27:13 GMT</pubDate><enclosure url="lib\media\nathonel-iii-20240902172633691.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\nathonel-iii-20240902172633691.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Peter Asmodean]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\peter-asmodean-20240902172317655.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|PeterAsmodean   |<br>
+Link Statblock| |<br>
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\peter-asmodean-20240902172317655.webp" alt="99 - Meta/Resources/Character/Peter Asmodean-20240902172317655.webp"> 99 - Meta/Resources/Character/Peter Asmodean-20240902172317655.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Tiefling  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen|  ​  |<br>
+Beruf|  ​ |<br>
+Class|Warlock ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Kohlrend" href="\01-locations\matze\dunkelheit-über-kohlrend\kohlrend.html" class="internal-link">Kohlrend</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Schatten über Kohlrend Matze" href="\00-player\matze\gruppe-2\schatten-über-kohlrend-matze.html" class="internal-link">Schatten über Kohlrend Matze</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-2\peter-asmodean.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 2/Peter Asmodean.md</guid><pubDate>Tue, 17 Dec 2024 18:27:08 GMT</pubDate><enclosure url="lib\media\peter-asmodean-20240902172317655.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\peter-asmodean-20240902172317655.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Schatten über Kohlrend Matze]]></title><description><![CDATA[ 
+ <br>Metadata
+System
+
+
+
+Art
+
+
+
+Infos
+
+
+
+<br>Charaktere
+Cards
+
+
+<br>Sessions
+Cards
+
+
+<br>Adventures
+Cards
+
+
+<br><br>Column
+Familie
+Dataview: No results to show for table query.
+
+Verbündete
+Dataview: No results to show for table query.
+
+Freunde
+Dataview: No results to show for table query.
+
+Meinung positiv
+Dataview: No results to show for table query.
+
+Meinung negativ
+Dataview: No results to show for table query.
+
+Feind
+Dataview: No results to show for table query.
+
+<br>]]></description><link>00-player\matze\gruppe-2\schatten-über-kohlrend-matze.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 2/Schatten über Kohlrend Matze.md</guid><pubDate>Tue, 17 Dec 2024 21:31:52 GMT</pubDate><enclosure url="lib\media\gruppe-von-matze-20240821171615748.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\gruppe-von-matze-20240821171615748.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Theris Goldheart]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\theris-goldheart-20240821155519746.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|TherisGoldheart   |<br>
+Link Statblock| |<br>
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\theris-goldheart-20240821155519746.webp" alt="99 - Meta/Resources/Character/Theris Goldheart-20240821155519746.webp"> 99 - Meta/Resources/Character/Theris Goldheart-20240821155519746.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Aasimar  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CelestialCommonDraconicSylvan ​  |<br>
+Beruf|  ​ |<br>
+Class|Warlock ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Kohlrend" href="\01-locations\matze\dunkelheit-über-kohlrend\kohlrend.html" class="internal-link">Kohlrend</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Schatten über Kohlrend Matze" href="\00-player\matze\gruppe-2\schatten-über-kohlrend-matze.html" class="internal-link">Schatten über Kohlrend Matze</a> ​ |
+
+<br>Character-Sheet
+
+<br><br>Eine junge Frau mit dunkelbraunen gelockten Haaren gekleidet in einer ledernen Rüstung und einfacher aber gepflegter Kleidung mit roten Akzenten. Sie trägt silberne Ohrringe und eine Kette mit einem Symbol einer Wage (Göttin <a data-href="Shagaya" href="\02-npcs\götter\shagaya.html" class="internal-link" target="_self" rel="noopener nofollow">Shagaya</a>) um ihren Hals. In ihren braunen Augen, mit welchen sie ihre Umgebung meist neugierig und aufmerksam betrachtet, sieht man einen leichten goldenen Schimmer.<br><br>
+<br>Ihre Verbindung zu dem Engels Wesen aus ihren Träumen erkunden
+<br>Den Weg den ihr Engel ihr zeigt finden und folgen?
+<br><br>
+<br>Etwas übermütig
+<br>Sehr neugierig, wenn Theris etwas findet was sie nicht kennt, muss sie es untersuchen.
+<br><br>
+<br>Theris ist eine Assimar, weiß dies aber (noch?) nicht.
+<br><br><br>Theris hatte eine normale Kindheit in <a data-href="Urokoma" href="\01-locations\ortschaften\urokoma.html" class="internal-link" target="_self" rel="noopener nofollow">Urokoma</a>, einer kleineren Stadt am Fluss Amagara in der <a data-href="Wüste der tausend Lichter" href="\01-locations\landstriche\wüste-der-tausend-lichter.html" class="internal-link" target="_self" rel="noopener nofollow">Wüste der tausend Lichter</a>. Seit ihrer Jugend hatte sie von Zeit zu Zeit seltsame Träume, in denen erst unscharf aber mit den Jahren immer detaillierter eine Engelhafte Geschalt ihr eine Art Weg aufzeigte. Nachdem sie mit 34 Jahren einige Jahre in einem Tempel der Göttin <a data-href="Shagaya" href="\02-npcs\götter\shagaya.html" class="internal-link" target="_self" rel="noopener nofollow">Shagaya</a> (Göttin der Balance) als Tempeldienerin gearbeitet hatte, erschien ihr im Traum wieder einmal die Engelhafte Gestalt und zum ersten mal berührte diese Gestalt Theris.<br>
+Am nächsten Tag war Theris durchdrungen von Tatendrang und dem Verlangen mehr über diese Gestalt herauszufinden. Und so spürte sie, dass sie in die Welt hinausziehen musste um dieses Geheimnis zu lüften. Auf Ihrer Reise bemerkte Theris, dass sie nun über magische Fähigkeiten verfügte, und so ist sie nun unterwegs auf der Suche nach ihrem Engel...]]></description><link>00-player\matze\gruppe-2\theris-goldheart.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 2/Theris Goldheart.md</guid><pubDate>Tue, 17 Dec 2024 18:27:02 GMT</pubDate><enclosure url="lib\media\theris-goldheart-20240821155519746.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\theris-goldheart-20240821155519746.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dark Crow]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\dark-crow-20241110193538857.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+
+
+Bio
+
+
+
+Infos
+
+
+
+Stats
+
+
+
+Gruppen
+
+
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-3\dark-crow.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Dark Crow.md</guid><pubDate>Tue, 17 Dec 2024 18:26:55 GMT</pubDate><enclosure url="lib\media\dark-crow-20241110193538857.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\dark-crow-20241110193538857.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Irvin Buntbarsch]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\irvin-buntbarsch-20241117161902539.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+
+
+Bio
+
+
+
+Infos
+
+
+
+Stats
+
+
+
+Gruppen
+
+
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-3\irvin-buntbarsch.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Irvin Buntbarsch.md</guid><pubDate>Tue, 17 Dec 2024 18:26:49 GMT</pubDate><enclosure url="lib\media\irvin-buntbarsch-20241117161902539.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\irvin-buntbarsch-20241117161902539.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ludus]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\ludus-20241218172515444.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+
+
+Bio
+
+
+
+Infos
+
+
+
+Stats
+
+
+
+Gruppen
+
+
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-3\ludus.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Ludus.md</guid><pubDate>Wed, 18 Dec 2024 16:28:36 GMT</pubDate><enclosure url="lib\media\ludus-20241218172515444.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\ludus-20241218172515444.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Mylli van Myllen]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\mylli-van-myllen-20241218172757133.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+
+
+Bio
+
+
+
+Infos
+
+
+
+Stats
+
+
+
+Gruppen
+
+
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-3\mylli-van-myllen.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Mylli van Myllen.md</guid><pubDate>Wed, 18 Dec 2024 18:32:37 GMT</pubDate><enclosure url="lib\media\mylli-van-myllen-20241218172757133.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\mylli-van-myllen-20241218172757133.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Primordial Titans Matze]]></title><description><![CDATA[ 
+ <br>Metadata
+System
+
+
+
+Art
+
+
+
+Infos
+
+
+
+<br>Charaktere
+Cards
+
+
+<br>Sessions
+Cards
+
+
+<br>Adventures
+Cards
+Dataview: No results to show for table query.
+
+<br><br>Column
+Familie
+Dataview: No results to show for table query.
+
+Verbündete
+Dataview: No results to show for table query.
+
+Freunde
+Dataview: No results to show for table query.
+
+Meinung positiv
+Dataview: No results to show for table query.
+
+Meinung negativ
+Dataview: No results to show for table query.
+
+Feind
+Dataview: No results to show for table query.
+
+<br>]]></description><link>00-player\matze\gruppe-3\primordial-titans-matze.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Primordial Titans Matze.md</guid><pubDate>Tue, 17 Dec 2024 21:33:08 GMT</pubDate><enclosure url="lib\media\gruppe-3-20241031175220121.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\gruppe-3-20241031175220121.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Silk]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\silk-20241106195131555-klein.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+
+
+Bio
+
+
+
+Infos
+
+
+
+Stats
+
+
+
+Gruppen
+
+
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>In der Organisation <a data-href="Schattenwächter" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\schattenwächter.html" class="internal-link" target="_self" rel="noopener nofollow">Schattenwächter</a> aufsteigen
+<br><a data-href="Ajara Haven" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\ajara-haven.html" class="internal-link" target="_self" rel="noopener nofollow">Ajara Haven</a> beeindrucken
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br><br>Silk wurde als Kind von <a data-href="Ajara Haven" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\ajara-haven.html" class="internal-link" target="_self" rel="noopener nofollow">Ajara Haven</a> aufgenommen. Sie weiß nicht was mit Ihren Eltern war. Und wuchs somit unter dem Einfluss von <a data-href="Ajara Haven" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\ajara-haven.html" class="internal-link" target="_self" rel="noopener nofollow">Ajara Haven</a> in <a data-href="Amagara" href="\01-locations\ortschaften\amagara.html" class="internal-link" target="_self" rel="noopener nofollow">Amagara</a> in der <a data-href="Wüste der tausend Lichter" href="\01-locations\landstriche\wüste-der-tausend-lichter.html" class="internal-link" target="_self" rel="noopener nofollow">Wüste der tausend Lichter</a> auf, welche Sie in diversen Feldern ausbilden ließ. Silk stellte schon früh fest, dass sie über Magie verfügte und fokusierte sich aus diese und auf das Handwerk der Heimlichkeit und Täuschung, welches besonders von <a data-href="Ajara Haven" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\ajara-haven.html" class="internal-link" target="_self" rel="noopener nofollow">Ajara Haven</a> geschätzt wird.<br>Silk ist schon länger bei den <a data-href="Schattenwächter" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\schattenwächter.html" class="internal-link" target="_self" rel="noopener nofollow">Schattenwächter</a> in verschiedenen Missionen für <a data-href="Ajara Haven" href="\02-npcs\trollfaust\wüste-der-tausend-lichter\ajara-haven.html" class="internal-link" target="_self" rel="noopener nofollow">Ajara Haven</a> aktiv.]]></description><link>00-player\matze\gruppe-3\silk.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Silk.md</guid><pubDate>Tue, 17 Dec 2024 18:26:30 GMT</pubDate><enclosure url="lib\media\silk-20241106195131555-klein.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\silk-20241106195131555-klein.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Twilight Sparkle]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\twilight-sparkle-20241110193610449.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+
+
+Bio
+
+
+
+Infos
+
+
+
+Stats
+
+
+
+Gruppen
+
+
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\matze\gruppe-3\twilight-sparkle.html</link><guid isPermaLink="false">00 - Player/Matze/Gruppe 3/Twilight Sparkle.md</guid><pubDate>Wed, 18 Dec 2024 16:29:31 GMT</pubDate><enclosure url="lib\media\twilight-sparkle-20241110193610449.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\twilight-sparkle-20241110193610449.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dr. Riz Darun]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\dr.-riz-darun-20240602150537597.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Riz DarunRizDarun   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\dr.-riz-darun-20240602150537597.webp" alt="99 - Meta/Resources/Character/Dr. Riz Darun-20240602150537597.webp"> 99 - Meta/Resources/Character/Dr. Riz Darun-20240602150537597.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|goblin-mpmm|Goblin  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CommonDraconicElvishDwarvish ​  |<br>
+Beruf| Archeologe ​ |<br>
+Class|Barbarian ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit| ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\trollfaust\alt\dr.-riz-darun.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Alt/Dr. Riz Darun.md</guid><pubDate>Tue, 17 Dec 2024 18:26:05 GMT</pubDate><enclosure url="lib\media\dr.-riz-darun-20240602150537597.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\dr.-riz-darun-20240602150537597.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nyrz Teruf]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\nyrz-teruf-20240709231729724.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|NyrzTeruf   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\nyrz-teruf-20240709231729724.webp" alt="99 - Meta/Resources/Character/Nyrz Teruf-20240709231729724.webp"> 99 - Meta/Resources/Character/Nyrz Teruf-20240709231729724.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Goliath  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| AbyssalCommonGiantDraconic ​  |<br>
+Beruf| Akolyth ​ |<br>
+Class|Warlock ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit| ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>Nyrz stammt aus einer <a data-href="Goliath" href="\Goliath" class="internal-link" target="_self" rel="noopener nofollow">Goliath</a> Gesellschaft in der Naturgeister verehrt werden. Er wurde in eine Gruppe hineingebohren in der der Naturgeist des Todes Bonsamni angebetet wird, weshalb sie auch am Rand der Gesellschaft leben mussten. Der Packt den jeder aus seiner Gruppe mit Bonsamni schloss verlieh ihnen Mächte für die sie ihm Seelen schulden. Diese Seelen erlangen sie in dem sie Verträge mit anderen Kreaturen schließen für die jene Kreatur seine Seelen als Preis anbietet.<br>Ein nahe gelegener Echsenmenschenstamm das Dorf von Nyrz angriff und viele seiner Mitanhänger umgebracht wurden nahm er ihre Seelen und flehte Bonsamni an ihm im Austausch für ihre Seelen die Macht zu verleihen das Dorf zu retten. Bonsamni nahm den Handel an aber Nyrz müsse dafür nochmehr Seelen liefern. So schlossen Nyrz und Bonsamni den Vertrag. Ukym zieht seitdem durch die Welt um den Vertrag welcher seine Heimat schütz zu erfüllen, ohne zu Wissen was Bonsamni noch alles fordert.<br>Siehe <a data-href="Temugil Stormfist" href="\00-player\trollfaust\alt\temugil-stormfist.html" class="internal-link" target="_self" rel="noopener nofollow">Temugil Stormfist</a> als Gegenspieler.]]></description><link>00-player\trollfaust\alt\nyrz-teruf.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Alt/Nyrz Teruf.md</guid><pubDate>Tue, 17 Dec 2024 18:26:12 GMT</pubDate><enclosure url="lib\media\nyrz-teruf-20240709231729724.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\nyrz-teruf-20240709231729724.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Temugil Stormfist]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\temugil-stormfist-20240913191853680.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|TemugilStormfist   |<br>
+Link Statblock| |<br>
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\temugil-stormfist-20240913191853680.webp" alt="99 - Meta/Resources/Character/Temugil Stormfist-20240913191853680.webp"> 99 - Meta/Resources/Character/Temugil Stormfist-20240913191853680.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Dwarf  |<br>
+Sub Race|Mountain Dwarf  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CommonDwarvishGiantPrimordial ​  |<br>
+Beruf| Akolyth ​ |<br>
+Class|Sorcerer ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Zum wandernden Huhn" href="\01-locations\trollfaust\zum-wandernden-huhn\zum-wandernden-huhn.html" class="internal-link">Zum wandernden Huhn</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Terrors beneath Deepfrost Citadel" href="\00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html" class="internal-link">Terrors beneath Deepfrost Citadel</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br><br>ALT:<br>
+Temugil, schwor Rache an&nbsp;<a data-tooltip-position="top" aria-label="Nyrz Teruf" data-href="Nyrz Teruf" href="\00-player\trollfaust\alt\nyrz-teruf.html" class="internal-link" target="_self" rel="noopener nofollow">Nyrz</a> nachdem&nbsp;<a data-tooltip-position="top" aria-label="Nyrz Teruf" data-href="Nyrz Teruf" href="\00-player\trollfaust\alt\nyrz-teruf.html" class="internal-link" target="_self" rel="noopener nofollow">Nyrz</a> die Seele von Temugils Vater durch einen aus seiner Sicht betrug geraubt hatte und er wird nicht eher ruhen ehe er ihn erschlagen hat und die Seele seines Vater Einzug in die Ahnenhalle der Stürme hält. Als er ihn Nahe dem Gipfel Sturmtrotz endlich stellen konnte verschwand&nbsp;<a data-tooltip-position="top" aria-label="Nyrz Teruf" data-href="Nyrz Teruf" href="\00-player\trollfaust\alt\nyrz-teruf.html" class="internal-link" target="_self" rel="noopener nofollow">Nyrz</a> auf Mysteriöse weiße kurz bevor Temugils Hammer seine Rache endlich ausführen könnte. Und so geht die Jagt weiter...]]></description><link>00-player\trollfaust\alt\temugil-stormfist.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Alt/Temugil Stormfist.md</guid><pubDate>Tue, 17 Dec 2024 18:26:16 GMT</pubDate><enclosure url="lib\media\temugil-stormfist-20240913191853680.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\temugil-stormfist-20240913191853680.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Zindara]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\zindara-20240705224322218.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Empty   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\zindara-20240705224322218.webp" alt="99 - Meta/Resources/Character/Zindara-20240705224322218.webp"> 99 - Meta/Resources/Character/Zindara-20240705224322218.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Tiefling  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CommonDwarvishInfernalDruidic ​  |<br>
+Beruf| Reisender ​ |<br>
+Class|Druid ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Hermithan" href="\01-locations\trollfaust\hermilthan-und-umgebung\01-hermilthan\hermithan.html" class="internal-link">Hermithan</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit| ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>Ich gebe vor, die Landessprache nicht zu verstehen, um Interaktionen zu vermeiden, die ich lieber nicht hätte.
+<br><br>
+<br>Ich drücke Zuneigung oder Verachtung auf eine Art und Weise aus, die für andere ungewohnt ist.
+<br>Ich bin weit weg von zu Hause, und alles ist seltsam und wunderbar! 
+<br><br><br><br>
+<br>viele Meister auf reisen getroffen und dort das Druidentum gelernt
+<br>
+]]></description><link>00-player\trollfaust\alt\zindara.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Alt/Zindara.md</guid><pubDate>Tue, 17 Dec 2024 18:26:22 GMT</pubDate><enclosure url="lib\media\zindara-20240705224322218.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\zindara-20240705224322218.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Aya Ithil´Dirin]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\aya-ithil´dirin-20240706214834942_klein.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|AyaIthilDirin   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\aya-ithil´dirin-20240706214834942_klein.webp" alt="99 - Meta/Resources/Character/Aya Ithil´Dirin-20240706214834942_klein.webp"> 99 - Meta/Resources/Character/Aya Ithil´Dirin-20240706214834942_klein.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|aasimar-mpmm|Aasimar  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CelestialCommonElvishDraconic ​  |<br>
+Beruf| Akolyth ​ |<br>
+Class|Paladin ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Terrors beneath Deepfrost Citadel" href="\00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html" class="internal-link">Terrors beneath Deepfrost Citadel</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>Das Licht ist Leben. Aya glaubt daran, dass das Licht Leben bedeutet, und dass auch in der finstersten Nacht ein Licht das Dunkel erhellt. Sie sieht das Licht der Sterne als das klarste und reinste Licht von allen.
+<br><br>
+<br>Dadurch, dass sie immer versucht das Gute zu sehen, ist sie häufig etwas zu naiv/leichtgläubig und könnte dem ein oder anderen Halsabschneider auf den Leim gehen.
+<br><br>
+<br>Hat den starken Drang, ihre Mitmenschen zu beschützen und gegen das Böse in der Welt vorzugehen.
+<br><br>
+<br>Die alte Dragonborn-Klerikerin <a data-href="Yonna" href="\02-npcs\trollfaust\pc-backstory\yonna.html" class="internal-link" target="_self" rel="noopener nofollow">Yonna</a> war lange Zeit die Mentorin von Aya. Sie hat es sich zur Aufgabe gemacht mit Hilfe ihrer Lehren Gutes in der Welt zu vollbringen.
+<br><br>Aya stammt von einem celestischen Wesen ab. Davon weiß sie allerdings noch nichts, denn der göttliche Funke hat bereits in weit früheren Generationen in ihre Familie gefunden und sich erst bei ihr manifestiert.<br>Sie ist sehr ländlich, in dem kleinen Elfen-Dorf Kaserûn in der Nähe eines Waldes bei ihren Eltern aufgewachsen. Bereits im Kindesalter aber bekam sie Visionen eines Engels, der im Traum zu ihr spricht und ihr Ratschläge mit auf den Weg gibt. Am Tag scheint er sie in Form eines inneren positiven Gefühls zu begleiten.<br>Eines Tages kam eine alte Dragonborn Klerikerin namens <a data-href="Yonna" href="\02-npcs\trollfaust\pc-backstory\yonna.html" class="internal-link" target="_self" rel="noopener nofollow">Yonna</a> ins Dorf, die Geschichten von der draconische Göttin des Lichts, des Lebens und der Gnade Tamara erzählte. Aya war ganz begeistert von den Lehren der alten Dame und ihr Band wurde mit der Zeit so stark, dass sie im Alter von 16 Jahren beschloss mit dieser auf Pilgerschaft zu gehen. Auf der Reise bekam sie viel von ihrem Glauben und ihren Ritualen mit und sie besuchten zahlreiche Tempel.<br>Vor etwa einem Jahr starb <a data-href="Yonna" href="\02-npcs\trollfaust\pc-backstory\yonna.html" class="internal-link" target="_self" rel="noopener nofollow">Yonna</a> an Altersschwäche und wurde in einem Tempel Tamara beigesetzt. Seit diesem Tag reiste Aya allein weiter, um die Lehrern und Lebensweisheiten ihrer Mentorin in die Welt hinauszutragen und damit Gutes zu bewirken.<br>Vor ein paar Tagen dann, traf Aya auf den alten Tortel <a data-tooltip-position="top" aria-label="Morten Roshi" data-href="Morten Roshi" href="\00-player\trollfaust\gruppe-1\morten-roshi.html" class="internal-link" target="_self" rel="noopener nofollow">Morten</a> in einer Taverne. Das alte Männlein erinnerte sie an ihre ehemalige Weggefährtin und ein starker Beschützerinstinkt meldete sich in ihr. Seitdem reisen die beiden gemeinsam durchs Land.]]></description><link>00-player\trollfaust\gruppe-1\aya-ithil´dirin.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Gruppe 1/Aya Ithil´Dirin.md</guid><pubDate>Tue, 17 Dec 2024 18:27:52 GMT</pubDate><enclosure url="lib\media\aya-ithil´dirin-20240706214834942_klein.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\aya-ithil´dirin-20240706214834942_klein.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Morten Roshi]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\morten-20240701142848303.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|MortenRoshi   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\morten-20240701142848303.webp" alt="99 - Meta/Resources/Character/Morten-20240701142848303.webp"> 99 - Meta/Resources/Character/Morten-20240701142848303.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|99 - Meta/CLI/races/tortle-mpmm|Tortle  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CommonDwarvishPrimordial ​  |<br>
+Beruf| Reisender ​ |<br>
+Class|Monk ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Terrors beneath Deepfrost Citadel" href="\00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html" class="internal-link">Terrors beneath Deepfrost Citadel</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>Sein Ziel ist es, die Kampfkunst zu perfektionieren und diese an die nächste Generation weiterzugeben.
+<br><br>
+<br>Da er jetzt seit sehr langer Zeit das erste mal wieder in der Zivilisation und unter Menschen ist, ist er den weltlichen Annehmlichkeiten wohl ein wenig zu sehr zugetan.
+<br><br>
+<br>Wenn er sich mal mit jemandem angefreundet hat, steht er diesem auch voll und ganz zur Seite. Außerdem respektiert er jeden Gegner, der sich dem Kampfkunst verschrieben hat und tritt diesen mit Ehre und Respekt entgegen.
+<br><br>
+<br>Er bildete einst zwei Schüler (<a data-href="Boku" href="\02-npcs\trollfaust\pc-backstory\boku.html" class="internal-link" target="_self" rel="noopener nofollow">Boku</a> + <a data-href="Kirin" href="\02-npcs\trollfaust\pc-backstory\kirin.html" class="internal-link" target="_self" rel="noopener nofollow">Kirin</a>) in der Kampfkunst aus die ihm sehr ans Herz gewachsen sind.
+<br><br>Morten wuchs in einem Kloster auf und trainierte dort die Kampfkünste. Eines Tages wurde das Kloster von einem mächtigen Teufel angegriffen und sein Meister, der als einer der stärksten Kampfkünstler aller Zeiten galt, konnte diesen zwar nicht besiegen, aber in einem Kochtopf versiegeln, wobei er sein Leben gab. An jenem Tag wurde Morten klar, dass er noch viel mehr trainieren und sogar seinen Meister übertreffen musste, um die Welt vor dem Bösen verteidigen zu können. Er lies den Topf zur Verwahrung im Kloster zurück und lebte seitdem auf einer einsamen Insel inmitten des Meeres um dort stärker zu werden.<br>Nach vielen Jahrhunderten des Trainierens kamen eines Tages zwei kleine Jungen auf seine Insel, die von ihm gehört hatten und seine Schüler werden wollten. Er nahm sie unter seine Fittiche und bildete sie in seiner Kampfkunst aus. An dem Tag, als er ihnen nichts mehr beibringen konnte, schickte er sie hinaus in die Welt, um dort Meisterschaft zu erlangen. So gingen sie und Morten war wieder allein.<br>Doch die Gesellschaft hatte ihm nach all den Jahrhunderten der Einsamkeit gefallen und so kam es, dass er seine Insel verließ, um sich die Welt da draußen einmal anzusehen. Und obwohl er einst ein Großmeister der Kampfkunst war, so merkte er, dass sich die Jahrhunderte doch bemerkbar machten und er eine weile brauchen würde, zu altem Können zurückzufinden.]]></description><link>00-player\trollfaust\gruppe-1\morten-roshi.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Gruppe 1/Morten Roshi.md</guid><pubDate>Tue, 17 Dec 2024 18:28:12 GMT</pubDate><enclosure url="lib\media\morten-20240701142848303.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\morten-20240701142848303.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Norik]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\norik-20240831171155204.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Empty   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\norik-20240831171155204.webp" alt="99 - Meta/Resources/Character/Norik-20240831171155204.webp"> 99 - Meta/Resources/Character/Norik-20240831171155204.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|human-variant|Human  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CommonElvishGoblinDwarvish ​  |<br>
+Beruf| Gelehrter ​ |<br>
+Class|Wizard ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Terrors beneath Deepfrost Citadel" href="\00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html" class="internal-link">Terrors beneath Deepfrost Citadel</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>Ich übersehe offensichtliche Lösungen zugunsten von komplizierten.
+<br><br>
+<br>Ich bin es gewohnt, denjenigen zu helfen, die nicht so schlau sind wie ich, und ich erkläre anderen geduldig alles und jedes.
+<br>Ich bin bereit, mir alle Seiten eines Arguments anzuhören, bevor ich mir ein eigenes Urteil bilde.
+<br>Der Weg zu Macht und Selbstverbesserung führt über Wissen.
+<br><br>
+<br>
+<br>]]></description><link>00-player\trollfaust\gruppe-1\norik.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Gruppe 1/Norik.md</guid><pubDate>Tue, 17 Dec 2024 18:28:36 GMT</pubDate><enclosure url="lib\media\norik-20240831171155204.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\norik-20240831171155204.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tenura]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\tenura-20240913223853034.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Empty   |<br>
+Link Statblock| |<br>
+ACHTUNG: DnDBeyond iFrame Einbindung muss manuell gemacht werden
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\tenura-20240913223853034.webp" alt="99 - Meta/Resources/Character/Tenura-20240913223853034.webp"> 99 - Meta/Resources/Character/Tenura-20240913223853034.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|Loxodon  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| CommonGiantLoxodon ​  |<br>
+Beruf|  ​ |<br>
+Class|Fighter ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort|<a target="_self" rel="noopener" data-href="Zum wandernden Huhn" href="\01-locations\trollfaust\zum-wandernden-huhn\zum-wandernden-huhn.html" class="internal-link">Zum wandernden Huhn</a> ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Terrors beneath Deepfrost Citadel" href="\00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html" class="internal-link">Terrors beneath Deepfrost Citadel</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\trollfaust\gruppe-1\tenura.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Gruppe 1/Tenura.md</guid><pubDate>Tue, 17 Dec 2024 18:28:49 GMT</pubDate><enclosure url="lib\media\tenura-20240913223853034.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\tenura-20240913223853034.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Terrors beneath Deepfrost Citadel]]></title><description><![CDATA[ 
+ <br>Metadata
+System
+
+
+
+Art
+
+
+
+Infos
+
+
+
+<br>Charaktere
+Cards
+
+
+<br>Sessions
+Cards
+
+
+<br>Adventures
+Cards
+
+
+<br><br>Column
+Familie
+Dataview: No results to show for table query.
+
+Verbündete
+Dataview: No results to show for table query.
+
+Freunde
+
+
+Meinung positiv
+
+
+Meinung negativ
+Dataview: No results to show for table query.
+
+Feind
+Dataview: No results to show for table query.
+
+<br><a data-tooltip-position="top" aria-label="https://docs.google.com/spreadsheets/d/1uuIgFK1ORu-1p8d4c42eTNvENAzt4Zm8Ig5PYcj4k4c/edit?usp=sharing" rel="noopener nofollow" class="external-link" href="https://docs.google.com/spreadsheets/d/1uuIgFK1ORu-1p8d4c42eTNvENAzt4Zm8Ig5PYcj4k4c/edit?usp=sharing" target="_blank">Terminfindung</a><br>]]></description><link>00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Gruppe 1/Terrors beneath Deepfrost Citadel.md</guid><pubDate>Sun, 10 Nov 2024 21:28:25 GMT</pubDate><enclosure url="lib\media\region-um-hermithan-20240723133908247.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\region-um-hermithan-20240723133908247.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Valkryn]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\valkryn-20240707224726727.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Empty   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\valkryn-20240707224726727.webp" alt="99 - Meta/Resources/Character/Valkryn-20240707224726727.webp"> 99 - Meta/Resources/Character/Valkryn-20240707224726727.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|human-variant|Human  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen| AbyssalCommonThieves Cant ​  |<br>
+Beruf| Gauner ​ |<br>
+Class|Rogue ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit|<a target="_self" rel="noopener" data-href="Terrors beneath Deepfrost Citadel" href="\00-player\trollfaust\gruppe-1\terrors-beneath-deepfrost-citadel.html" class="internal-link">Terrors beneath Deepfrost Citadel</a> ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>Denkt immer drüber nach wie er Dinge klauen kann
+<br>Wenn es schlecht aussieht, haut er ab
+<br><br>
+<br>Der beste Weg, mich dazu zu bringen, etwas zu tun, ist, mir zu sagen, dass ich es nicht tun kann.
+<br>Ich achte nicht auf die Risiken einer Situation. Sag mir nie, wie hoch die Chancen sind.
+<br>An einem neuen Ort notiere ich mir als Erstes, wo sich alles Wertvolle befindet - oder wo solche Dinge versteckt sein könnten.
+<br><br>
+<br>
+<br><br>Aufgewachsen in einem armen Elternhaus, in einem Armenviertel. Musste nach dem Tod seiner Eltern durch plündernde Ritter, früh lernen zu stehlen und fing später an in der Diebesgilde Aufträge anzunehmen. <br>Bei einem schlecht geplanten Überfall auf einen Herzog, starb Tamira mit der ich seit meiner Zeit auf der Straße eine enge Verbindung hatte. Ich musste ihren Tod mit ansehen. Ich konnte unerwartet fliehen und aus der Stadt entkommen, keine Zeit ihren Tod zu betrauern. <br>Reuhe, Wut und Trauer trieben mich durch die Lande. Ich hielt mich mit einfachen Diebstählen und ein paar Detektiv Aufträgen über Wasser. Meine Verstohlenheit und Überzeugungskünste, machten diese Unterfangen zu einem Kinderspiel. Der Ruf des Abenteuers, Reichtümer und vielleicht sogar Wiedergutmachung treiben mich an.]]></description><link>00-player\trollfaust\gruppe-1\valkryn.html</link><guid isPermaLink="false">00 - Player/Trollfaust/Gruppe 1/Valkryn.md</guid><pubDate>Tue, 17 Dec 2024 18:29:05 GMT</pubDate><enclosure url="lib\media\valkryn-20240707224726727.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\valkryn-20240707224726727.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Test Spieler]]></title><description><![CDATA[ 
+ <br>Infobox
+
+
+<img alt="cover hs-med" src="\lib\media\placeholder.webp">
+
+
+
+
+
+
+<br>Metadata
+System
+
+| | |<br>
+---|---|<br>
+Tags|#Spieler#Character ​ |<br>
+Aliases|Empty   |<br>
+Link Statblock| |<br>
+iFrame| |
+
+Art
+
+| | |<br>
+---|---|<br>
+Art | <img class="mb-image-card-image" src="\lib\media\placeholder.webp" alt="99 - Meta/Resources/Utility/placeholder.webp"> 99 - Meta/Resources/Utility/placeholder.webp  |
+
+Bio
+
+| | |<br>
+---|---|<br>
+Betonung||<br>
+Race|null  |<br>
+Sub Race|null  |<br>
+Gender|nullmännlichweiblichdivers|<br>
+Alter||
+
+Infos
+
+| | |<br>
+---|---|<br>
+Sprachen|  ​  |<br>
+Beruf|  ​ |<br>
+Class| ​ |<br>
+Organisationen| ​ |<br>
+Religionen| ​ |<br>
+Besitzorte| ​ |<br>
+Aktueller Ort| ​ |<br>
+Zustand|nullGesundKrankVerwundetSterbendTotUntotSonder|
+
+Stats
+
+| | |<br>
+---|---|<br>
+AC| |<br>
+HP| |<br>
+Perception| |<br>
+Investigation| |<br>
+Insight| |
+
+Gruppen
+
+| | |<br>
+---|---|<br>
+Reist mit| ​ |
+
+<br>Character-Sheet
+
+<br><br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>]]></description><link>00-player\test-spieler.html</link><guid isPermaLink="false">00 - Player/Test Spieler.md</guid><pubDate>Tue, 16 Jul 2024 11:56:08 GMT</pubDate><enclosure url="lib\media\placeholder.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\placeholder.webp&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
